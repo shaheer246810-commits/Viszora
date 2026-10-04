@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://viszoramedia.online/</loc>
   </url>
@@ -11,4 +12,9 @@
   <url>
     <loc>https://viszoramedia.online/graphic-design.html</loc>
   </url>
+
+  <url>
+    <loc>https://viszoramedia.online/website-development.html</loc>
+  </url>
+
 </urlset>
